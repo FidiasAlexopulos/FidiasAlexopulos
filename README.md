@@ -8,6 +8,9 @@ Thanks for reaching over I’m @FidiasAlexopulos. A Professional Scrum Product O
 
 This app prototype was made for making more efficient the Field service management for a individual or big number teams.
 
+![Captura13](https://user-images.githubusercontent.com/109599051/187125814-ffb230ab-aafd-4dae-9baa-62d5cf19260c.JPG)
+
+
 [Check the prototype here](https://www.figma.com/proto/Ap9ubnpQOThj4OwnVvCiNI/Bronce-APP-(Copy)?node-id=6%3A1248&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1/)  
 
 
